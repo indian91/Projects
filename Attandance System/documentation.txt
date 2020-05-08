@@ -1,0 +1,6 @@
+In this we create an attandance system in which we have two functions.
+First function is used to take attandance and second function is used to count attandance of a particular student.
+
+function....
+	    1. take-attandance
+	    2. count_attandance

@@ -1,0 +1,7 @@
+In this file of python we created an application of guessing game.
+In this, computer guessing a number which has to be identified by user in five chances.
+If the user find the correct value which computer guess then user wins otherwise user failed.
+
+
+import random
+or from random  import randint
