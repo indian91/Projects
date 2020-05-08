@@ -1,0 +1,3 @@
+In this file we create a program which takes date from user and tell the next date of that date.
+
+date format of user is: dd/mm/yyyy
