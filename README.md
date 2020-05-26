@@ -21,3 +21,31 @@ In this project I update a live data of corona update for differenr countries wh
  Two more option is available there:
  First is refresh data which takes new live data every time when clicked on that button
  Another button is for exit from application
+
+Super Market Project
+_____________________
+each function has separate file :
+1.stationary----->stationary.py
+2.electronics---->electronics.py
+3.cosmatic------->cosmatic.py
+4.chocolate------>chocolate.py
+______________________________________
+And for data ---->dictionary.py
+             ---->supermarket folder
+We use shelve module to handle the data.
+
+import shelve
+db=shelve.open('supermarket/data.db',writeback=True)
+
+In supermarket.ipynb file we have 2 functions
+
+main:----> which has the control of our program
+exit:----> This is for exit from the project.
+
+
+
+
+
+
+
+
